@@ -53,14 +53,14 @@
 #two hr {
   width: 185px;
   border: 2px solid green;
-  margin: 18px 720px;
+  margin: 18px 535px;
 }
 
 .boxes {
   /* border: 1px solid; */
   width: 1023px;
   height: 555px;
-  margin: 50px 300px;
+  margin: 50px 109px;
   display: flex;
   justify-content: space-around;
 }
